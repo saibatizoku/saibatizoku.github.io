@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>saibatizoku&#x27;s blog</title>
+        <link>https:&#x2F;&#x2F;saibatizoku.github.io</link>
+        <description>collection of writings about software and other topics of interest.</description>
+        <generator>Gutenberg</generator>
+        <language>en</language>
+        <atom:link href="https:&#x2F;&#x2F;saibatizoku.github.io&#x2F;rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 22 Mar 2018 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>Thinking of Simulations</title>
+                <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+                <link>https:&#x2F;&#x2F;saibatizoku.github.io&#x2F;chapter1&#x2F;thinking-of-simulation&#x2F;</link>
+                <guid>https:&#x2F;&#x2F;saibatizoku.github.io&#x2F;chapter1&#x2F;thinking-of-simulation&#x2F;</guid>
+                <description>&lt;p&gt;In a word or two.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Starting this blog</title>
+                <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+                <link>https:&#x2F;&#x2F;saibatizoku.github.io&#x2F;intro&#x2F;starting-this-blog&#x2F;</link>
+                <guid>https:&#x2F;&#x2F;saibatizoku.github.io&#x2F;intro&#x2F;starting-this-blog&#x2F;</guid>
+                <description>&lt;p&gt;I&#x27;m starting this blog, using &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Keats&#x2F;gutenberg&quot;&gt;gutenberg&lt;&#x2F;a&gt; to generate the static site. &lt;code&gt;gutenberg&lt;&#x2F;code&gt; uses &lt;a href=&quot;https:&#x2F;&#x2F;www.rust-lang.org&quot;&gt;Rust&lt;&#x2F;a&gt;, which is my programming language of choice.&lt;&#x2F;p&gt;
+&lt;p&gt;This blog is an attempt at pinning-down some ideas to the wall of the Internet. The intention is that such ideas will be of use to others.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
